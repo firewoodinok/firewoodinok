@@ -401,6 +401,13 @@
     <Content Include="Content\Images\logo-ok.jpg" />
     <Content Include="Content\Images\logo-tn.jpg" />
     <Content Include="Content\Images\logo.jpg" />
+    <Content Include="Content\jssor\js\jquery-1.9.1.min.js" />
+    <Content Include="Content\jssor\svg\loading\static-svg\ball-triangle.svg" />
+    <Content Include="Content\jssor\svg\loading\static-svg\circles.svg" />
+    <Content Include="Content\jssor\svg\loading\static-svg\double-tail-spin.svg" />
+    <Content Include="Content\jssor\svg\loading\static-svg\oval.svg" />
+    <Content Include="Content\jssor\svg\loading\static-svg\spin.svg" />
+    <Content Include="Content\jssor\svg\loading\static-svg\tail-spin.svg" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -592,7 +599,7 @@
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
-    <Content Include="Scripts\jssor\jssor.slider.min.js" />
+    <Content Include="Content\jssor\js\jssor.slider.min.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />

@@ -396,6 +396,10 @@
     <Content Include="Content\frontend\assets\plugins\scrollMonitor\MIT-LICENSE.txt" />
     <Content Include="Content\frontend\assets\plugins\scrollMonitor\scrollMonitor.js" />
     <Content Include="Content\Images\home-bg.jpg" />
+    <Content Include="Content\Images\logo-ky.jpg" />
+    <Content Include="Content\Images\logo-mo.jpg" />
+    <Content Include="Content\Images\logo-ok.jpg" />
+    <Content Include="Content\Images\logo-tn.jpg" />
     <Content Include="Content\Images\logo.jpg" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -588,6 +592,7 @@
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\jssor\jssor.slider.min.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />

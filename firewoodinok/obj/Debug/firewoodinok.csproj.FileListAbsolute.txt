@@ -48,6 +48,5 @@ C:\Projects\firewoodinok\firewoodinok\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\firewoodinok\firewoodinok\bin\System.Web.WebPages.Razor.xml
 C:\Projects\firewoodinok\firewoodinok\bin\Antlr3.Runtime.pdb
 C:\Projects\firewoodinok\firewoodinok\bin\Newtonsoft.Json.xml
-C:\Projects\firewoodinok\firewoodinok\obj\Debug\firewoodinok.csprojResolveAssemblyReference.cache
 C:\Projects\firewoodinok\firewoodinok\obj\Debug\firewoodinok.dll
 C:\Projects\firewoodinok\firewoodinok\obj\Debug\firewoodinok.pdb
